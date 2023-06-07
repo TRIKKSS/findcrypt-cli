@@ -1,8 +1,0 @@
-md5
-sha1
-sha512
-sha
-crc
-hash
-crypt
-compress
